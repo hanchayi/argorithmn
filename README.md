@@ -6,7 +6,7 @@
 - [ ] [51. N 皇后](https://leetcode.cn/problems/n-queens/)
 
 ## 贪心
-- [ ] [135. 分发糖果](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
+- [ ] [135. 分发糖果](https://leetcode.cn/problems/candy/)
 - [x] [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
 
 ## 优先队列（堆）

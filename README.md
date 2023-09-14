@@ -7,7 +7,7 @@
 
 ## 贪心
 - [ ] [135. 分发糖果](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
-- [ ] [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
+- [x] [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
 
 ## 优先队列（堆）
 
@@ -40,7 +40,7 @@
 - [ ] [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
 
 ## 双指针
-- [ ] [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
+- [x] [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
 
 ## 栈&矩阵
 - [x] [88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)

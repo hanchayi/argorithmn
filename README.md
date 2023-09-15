@@ -11,7 +11,7 @@
 
 ## 优先队列（堆）
 
-- [ ] [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
+- [x] [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
 
 ## 字符串&动态规划
 

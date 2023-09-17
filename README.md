@@ -15,7 +15,7 @@
 
 ## 字符串&动态规划
 
-- [ ] [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence)
+- [x] [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence)
 - [ ] [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/)
 
 ## 二维数组

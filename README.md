@@ -27,7 +27,7 @@
 - [ ] [4. 寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/)
 
 ## 深度搜索&广度搜索&二叉树
-- [ ] [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
+- [x] [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
 
 ## 哈希&排序
 - [ ] [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/)

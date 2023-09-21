@@ -1,5 +1,9 @@
 # argorithmn
 
+## 栈
+- [x] [NC52 有效括号序列](https://www.nowcoder.com/practice/37548e94a270412c8b9fb85643c8ccc2?tpId=194&&tqId=35784&rp=1&ru=/ta/job-code-high-client&qru=/ta/job-code-high-client/question-ranking)
+- [x] [1614. 括号的最大嵌套深度
+](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/submissions/)
 
 ## 回溯
 - [x] [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
@@ -57,6 +61,14 @@ https://blog.csdn.net/mybook201314/article/details/117589533
 ## 正则表达式&排序
 - [ ] [10. 正则表达式匹配 困难](https://leetcode.cn/problems/regular-expression-matching/)
 
+## 排序
+- [x] [HJ8 合并表记录](https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201?tpId=37&tqId=21231&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ14 字符串排序](https://www.nowcoder.com/practice/5af18ba2eb45443aa91a11e848aa6723?tpId=37&tqId=21237&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ27 查找兄弟单词](https://www.nowcoder.com/practice/03ba8aeeef73400ca7a37a5f3370fe68?tpId=37&tqId=21250&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a)
+- [x] [成绩排序](https://www.nowcoder.com/practice/8e400fd9905747e4acc2aeed7240978b)
+
+
 
 ## 入门题
 
@@ -68,6 +80,11 @@ https://blog.csdn.net/mybook201314/article/details/117589533
 ## 字符串操作
 
 - [x] [HJ17 坐标移动](https://www.nowcoder.com/practice/119bcca3befb405fbe58abe9c532eb29?tpId=37&tqId=21240&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ20 密码验证合格程序](https://www.nowcoder.com/practice/184edec193864f0985ad2684fbc86841?tpId=37&tqId=21243&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ23 删除字符串中出现次数最少的字符](https://www.nowcoder.com/practice/05182d328eb848dda7fdd5e029a56da9?tpId=37&tqId=21246&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ33 整数与IP地址间的转换](https://www.nowcoder.com/practice/66ca0e28f90c42a196afd78cc9c496ea?tpId=37&tqId=21256&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ101 输入整型数组和排序标识，对其元素按照升序或降序进行排序](https://www.nowcoder.com/practice/dd0c6b26c9e541f5b935047ff4156309?tpId=37&tqId=21324&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+- [x] [HJ106 字符逆序](https://www.nowcoder.com/practice/cc57022cb4194697ac30bcb566aeb47b?tpId=37&tqId=21329&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
 
 
 

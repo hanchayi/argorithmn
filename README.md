@@ -5,6 +5,10 @@
 - [x] [1614. 括号的最大嵌套深度
 ](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/submissions/)
 
+## 排列组合
+- [ ] [面试题 08.08. 有重复字符串的排列组合](https://leetcode.cn/problems/permutation-ii-lcci/)
+- [ ] [组合](https://leetcode.cn/problems/combinations/)
+
 ## 回溯
 - [x] [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
 - [ ] [51. N 皇后](https://leetcode.cn/problems/n-queens/)
@@ -45,6 +49,9 @@
 
 ## 双指针
 - [x] [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
+- [x] [674. 最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/submissions/) 
+- [ ] [NC17 最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=194&rp=1&ru=%2Fta%2Fjob-code-high-client&qru=%2Fta%2Fjob-code-high-client%2Fquestion-ranking&difficulty=&judgeStatus=&tags=&title=&sourceUrl=&gioEnter=menu)
+- [ ] [NC28 最小覆盖子串](https://www.nowcoder.com/practice/c466d480d20c4c7c9d322d12ca7955ac?tpId=194&rp=1&ru=%2Fta%2Fjob-code-high-client&qru=%2Fta%2Fjob-code-high-client%2Fquestion-ranking&difficulty=&judgeStatus=&tags=&title=&sourceUrl=&gioEnter=menu)
 
 ## 栈&矩阵
 - [x] [88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)
@@ -68,7 +75,8 @@ https://blog.csdn.net/mybook201314/article/details/117589533
 - [x] [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a)
 - [x] [成绩排序](https://www.nowcoder.com/practice/8e400fd9905747e4acc2aeed7240978b)
 
-
+## 深搜
+- [ ] [称砝码](https://www.nowcoder.com/practice/f9a4c19050fc477e9e27eb75f3bfd49c)
 
 ## 入门题
 

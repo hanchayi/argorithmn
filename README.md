@@ -39,7 +39,6 @@
 
 ## 二叉树
 
-III.从上到下打印二叉树 III
 - [x] [LCR 150. 彩灯装饰记录 II II.从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/submissions/)
 - [x] [LCR 151. 彩灯装饰记录 III
 ](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/submissions/)

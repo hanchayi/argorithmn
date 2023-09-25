@@ -36,6 +36,7 @@
 - [x] [704. 二分查找](https://leetcode.cn/problems/binary-search/submissions/)
 - [x] [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
 - [x] [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
+- [x] [350. 两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/submissions/)
 
 ## 深度搜索&广度搜索&二叉树
 - [x] [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
